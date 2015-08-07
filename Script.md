@@ -9,3 +9,13 @@
 --
 **Contexte :** ils sont en train de jouer à mario kart comme à leur habitude
 --
+
+- J'ai faim
+- *Pizza !*
+- Carrément
+- super*
+- génial
+- trop cool !
+- hyper bien ! 
+*Crescendo*
+> Plan rapide sur la préparation puis sur le four et la pizza qui chauffe
